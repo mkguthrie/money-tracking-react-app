@@ -11,8 +11,8 @@ To view a working demo of the app, [click here](https://money-app-udemy.firebase
 - View list of transactions
 - Firebase Authentication, Database and Storage API's.
 
-![Signup](/src/assets/signin.png)
+![Signup](/src/assets/signup.png)
 
-![Singin](/src/assets/login.png)
+![Login](/src/assets/signin.png)
 
 ![Transactions](/src/assets/transactions.png)
