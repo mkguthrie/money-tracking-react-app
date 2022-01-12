@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# My Money React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app is based on project in the following Udemy course. [Udemy](https://www.udemy.com/course/build-web-apps-with-react-firebase/).
+
+To view a working demo of the app: [My Money App](https://money-app-udemy.firebaseapp.com/).
 
 ## Available Scripts
 
